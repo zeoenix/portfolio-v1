@@ -10,7 +10,7 @@
 
 **A modern, 3D-powered developer portfolio built with React 19, MUI v6, and Unicorn Studio.**
 
-[Live Demo](https://zeoenix.tech/) · [LinkedIn](https://www.linkedin.com/in/tanujpurohit) · [Contact](mailto:tanujpurohit@hotmail.com)
+[Live Demo](https://zeoenix.github.io/portfolio-v1) · [LinkedIn](https://www.linkedin.com/in/tanujpurohit) · [Contact](mailto:tanujpurohit@hotmail.com)
 
 </div>
 
